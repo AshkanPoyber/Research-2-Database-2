@@ -21,3 +21,9 @@
 
 
 <h3 dir="rtl"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" />موضوع تحقیق : مقایسه (Oracle و MySQL و SQLServer)</h3>
+
+<h4 dir="rtl">Oracle</h4>
+
+
+
+
